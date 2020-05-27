@@ -512,7 +512,7 @@ tr_TR:
       auto: Toplantı başladığında otomatik olarak katılacaksınız.
   settings:
     account:
-      fullname: Reklam alanı
+      fullname: İsim
       language: Dil
       provider: Sağlayıcı
       image: Görüntü
@@ -530,7 +530,7 @@ tr_TR:
       new: Yeni Şifre
       old: Eski Şifre
       subtitle: Şifreni değiştir
-      title: Kelime
+      title: Şifre
     title: profil
     search: Ara
   signup:
